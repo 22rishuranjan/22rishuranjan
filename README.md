@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi, Welcome to my GitHub Profile!! &animation=fadeIn&type=Waving&color=gradient&height=60&fontColor=A279F7&fontSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi 👋, Welcome to my GitHub Profile!! &animation=fadeIn&type=Waving&color=gradient&height=60&fontColor=A279F7&fontSize=20"/>
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 ```yaml
 name: Rishu Ranjan
-located_in: Singapore
-from: India
-current_job: Full Stack Developer
-education: Bachelor in Information Technology, UPTU, India
-company: Credit Agricole CIB
+located_in 🇸🇬: Singapore 
+from 🇮🇳: India 
+current_job 💼: Full Stack Developer
+education 🎓: Bachelor in Information Technology, UPTU, India
+company 🏢 : Credit Agricole CIB
 
-technical_skills:
+technical_skills 🥷:
     .NET Technologies: ASP.NET Core, MVC, REST API, Entity Framework, Azure Functions, Webapps, 
                        Legacy frameworks(ASP Classic, Webforms), Web Services,
     Programming Languages: C#, VB.Net,
@@ -36,14 +36,14 @@ technical_skills:
     Version Control Systems: GIT, TFS,
     Development Methodology: Agile Methodology- Scrum
   
-certifications:
+certifications 👍:
     Azure Fundamentals - AZ-900,
     Azure Developer - AZ-204,
     AWS Cloud Practitioner - CLF-C01,
     Microsoft Dynamics 365 - MB-920,
   
-currently_learning: Azure Devops, Docker, and Kubernetes
-hobbies: Chess, Anime, Comics
+currently_learning 🌱: Azure Devops, Docker, and Kubernetes
+hobbies 🛝: Chess, Anime, Comics
 ```
 -----
 
@@ -52,7 +52,10 @@ hobbies: Chess, Anime, Comics
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=22rishuranjan&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22rishuranjan&theme=noctis_minimus&layout=compact" />
 </a>
+
+
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
 </p>
+
