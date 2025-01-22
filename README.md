@@ -23,39 +23,39 @@ name: Rishu Ranjan
 located_in 🇸🇬: Singapore 
 from 🇮🇳: India 
 current_job 💼: Full Stack Developer
-education 🎓: Bachelor in Information Technology, UPTU, India
+education 🎓: Bachelor in Information Technology, Dr. A.P.J. Abdul Kalam Technical University, India (Graduated with Honors, 2016)
 company 🏢 : Credit Agricole CIB
 
 technical_skills 🥷:
-    .NET Technologies: ASP.NET Core, MVC, REST API, Entity Framework, Azure Functions, Webapps, 
-                       Legacy frameworks(ASP Classic, Webforms), Web Services,
-    Programming Languages: C#, VB.Net,
-    Databases: MS SQL, MongoDB,
-    Scripting Languages: JavaScript, jQuery, AJAX, JSON, React JS,
-    CI-CD: GitLab’s, Azure Devops,
-    Version Control Systems: GIT, TFS,
-    Development Methodology: Agile Methodology- Scrum
+  Languages:
+    - C#, Python, JavaScript, TypeScript
+  Frameworks:
+    - .NET 8, ASP.NET Core, ASP.NET MVC, EF Core, Microservices, Event-Driven Architecture, CQRS
+  Databases & Tools:
+    - MS SQL Server, MongoDB, Redis
+  Messaging Systems:
+    - Kafka, RabbitMQ
+  Testing Tools:
+    - xUnit, NUnit
+  Cloud Platforms:
+    - Azure (CI/CD, Functions, Blob Storage, Data Factory), AWS, Docker, Kubernetes, SignalR
+  ETL Tools:
+    - Azure Data Factory, SSIS, SSRS
+  Development Methodologies:
+    - Agile (Scrum), Clean Architecture, Test-Driven Development (TDD)
+  Additional Skills:
+    - Data Structures, Algorithms, Object-Oriented Programming, Multithreading, Concurrent Systems
   
 certifications 👍:
-    Azure Fundamentals - AZ-900,
-    Azure Developer - AZ-204,
-    AWS Cloud Practitioner - CLF-C01,
-    Microsoft Dynamics 365 - MB-920,
+  - Microsoft Certified: Dynamics 365 Fundamentals (ERP)
+  - Microsoft Certified: Azure Fundamentals (AZ-900)
+  - AWS Certified Cloud Practitioner (CLF-C01)
   
-currently_learning 🌱: Azure Devops, Docker, and Kubernetes
-hobbies 🛝: Chess, Anime, Comics
+currently_learning 🌱:
+  - Azure DevOps, Docker, Kubernetes
+
+hobbies 🛝:
+  - Chess, Anime, Comics
 ```
------
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/22rishuranjan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=22rishuranjan&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22rishuranjan&theme=noctis_minimus&layout=compact" />
-</a>
-
-
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/>
-</p>
-
+---
+<h2> 📈 &nbsp;My GitHub History!</h2> <a href="https://github.com/22rishuranjan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=22rishuranjan&theme=noctis_minimus&show_icons=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22rishuranjan&theme=noctis_minimus&layout=compact" /> </a> <p align="left"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer"/> </p> 
